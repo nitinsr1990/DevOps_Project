@@ -1,0 +1,74 @@
+[33mcommit be24ed902f5d85a04195e0ae9106f443c34aa987[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: c32b6ea b3888cd
+Author: nitinsr <nitinsr1990@gmail.com>
+Date:   Sat Aug 15 15:33:12 2020 +0000
+
+    x
+    huhuh Merge branch 'master' of https://github.com/nitinsr1990/DevOps_Project into master
+
+[33mcommit b3888cd5066964a679072c79917e596c17d174fc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: nitinsr1990 <nitinsr1990@gmail.com>
+Date:   Sat Aug 15 21:01:58 2020 +0530
+
+    Delete readme.txt
+
+[33mcommit c32b6ea7c9f1c11eb67c20ca3bddbf4f407438a7[m
+Merge: 301adac 2a23b34
+Author: nitinsr <nitinsr1990@gmail.com>
+Date:   Sat Aug 15 15:28:38 2020 +0000
+
+    Merge branch 'master' of https://github.com/nitinsr1990/DevOps_Project into master
+
+[33mcommit 301adacbacab912350d139813fb6e7ff797708ba[m
+Author: nitinsr <nitinsr1990@gmail.com>
+Date:   Sat Aug 15 15:28:10 2020 +0000
+
+    adding read me
+
+[33mcommit 2a23b342608b141e156f04ef3fe0924e553747ae[m
+Author: nitinsr1990 <nitinsr1990@gmail.com>
+Date:   Sat Aug 15 20:54:28 2020 +0530
+
+    readme
+
+[33mcommit 5516a89cf93ec499ef22a21135b764f26983e756[m
+Author: nitinsr <nitinsr1990@gmail.com>
+Date:   Sat Aug 15 15:19:29 2020 +0000
+
+    added p file
+
+[33mcommit 2a811b12141c33855629acb3081ce1a703764d86[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: nitinsr <nitinsr1990@gmail.com>
+Date:   Sat Aug 15 14:45:21 2020 +0000
+
+    adding gitigonre
+
+[33mcommit 1766e00e215509bf4279cd005e140abab53f38d8[m[33m ([m[1;33mtag: v1.1[m[33m)[m
+Author: nitinsr <nitinsr1990@gmail.com>
+Date:   Sat Aug 15 14:43:15 2020 +0000
+
+    added more comments to m1
+
+[33mcommit 00c08eded4a3752733b40da3acde01a23471c5d5[m
+Author: nitinsr <nitinsr1990@gmail.com>
+Date:   Sat Aug 15 14:41:21 2020 +0000
+
+    commit after adding text
+
+[33mcommit eed92e7aa352305d0e1946fd0215a551089a82e2[m
+Author: nitinsr <nitinsr1990@gmail.com>
+Date:   Sat Aug 15 14:36:20 2020 +0000
+
+    master files commit
+
+[33mcommit a1a5aac3578f0659756d0c159ae8f4330fbb8e90[m
+Author: nitinsr <nitinsr1990@gmail.com>
+Date:   Tue Aug 11 03:36:23 2020 +0000
+
+    second_commit
+
+[33mcommit 9edc06640b480b257c525968249ec234bfa55f19[m
+Author: nitinsr <nitinsr1990@gmail.com>
+Date:   Tue Aug 11 03:26:49 2020 +0000
+
+    first-commit
